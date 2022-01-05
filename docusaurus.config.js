@@ -9,7 +9,7 @@ const config = {
   title: 'Vampire Wars',
   tagline: 'They are now awake',
   url: 'https://qri57i.github.io',
-  baseUrl: '/',
+  baseUrl: '/docs.vampirewars.io/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
