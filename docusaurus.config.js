@@ -24,13 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/qri57i/docs.vampirewars.io',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/qri57i/docs.vampirewars.io',
+          editUrl: 'hhttps://github.com/qri57i/docs.vampirewars.io/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
