@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome to Vampire Wars
+# Welcome to Vampire Wars teeeest
 
 The Metaverse needs to be built, and it won’t build itself. It needs builders to build stories, platforms, and communities around it. And then interconnect it all. 
 
