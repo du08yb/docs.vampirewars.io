@@ -8,11 +8,11 @@ sidebar_position: 2
 On a barely formed Earth, still shaped by meteors, from the unknown vast space, 666 runes fell on the planet.
 The mystical runes, stones with well defined shape, writings and immense power, buried deep within the earth, awaited for life to thrive on the planet to manifest their purpose. Humans evolved and the Runes activated and genetically altered 666 humans, transforming them into what we now know as vampires.
 
-666 vampires roamed the planet, the ancient ones, pure bloodlines that thrived, built clans, expanded their territories while hunting for animals at night and resting during the day. They fought each other over territories to claim the hunting grounds.
-
 The vampires worshiped the Runes that empowered the most pure of their bloodlines and provided them the ability to breed and grow. 
 
-The Runes provide protection and immortality, the vampires performed rituals and gifted blood to the mystical objects. The unbreakable cycle has gone uninterrupted for millions of years. Life thrived on earth in perfect balance.
+666 vampires roamed the planet, the ancient ones, pure bloodlines that thrived, built clans, expanded their territories while hunting for animals at night and resting during the day. They fought each other over territories to claim the hunting grounds.
+
+The Runes provided protection and immortality, the vampires performed rituals and gifted blood to the mystical objects. The unbreakable cycle has gone uninterrupted for millions of years. Life thrived on earth in perfect balance.
 
 Until the great wars. Humans evolved, built their empires, migrated and occupied the planet.
 Vampires followed the food, territories got smaller and smaller while their greed became bigger and bigger.
